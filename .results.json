@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-11-20T21:26:09.817Z",
-    "end": "2022-11-20T21:26:10.364Z",
-    "duration": 547
+    "start": "2022-11-22T16:37:06.655Z",
+    "end": "2022-11-22T16:37:07.587Z",
+    "duration": 932
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,7 +66,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
